@@ -1,0 +1,6 @@
+{
+  "name": "클린에어 프로 - 에어컨 청소 1위 상위노출 홈페이지",
+  "description": "구글 및 네이버 검색 상위노출 최적화 구조를 적용한 에어컨 케어 및 프리미엄 분해 청소 전문 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
